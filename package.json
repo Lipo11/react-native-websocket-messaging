@@ -1,0 +1,29 @@
+{
+  "name": "react-native-websocket-messaging",
+  "version": "1.0.0",
+  "description": "Wrapper for react native websocket communication",
+  "main": "index.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/react-native-websocket-messaging.git"
+  },
+  "keywords": [
+    "ws",
+    "wss",
+    "websocket",
+    "messaging",
+    "ipc"
+  ],
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/react-native-websocket-messaging/issues"
+  },
+  "homepage": "https://github.com/Lipo11/react-native-websocket-messaging#readme"
+}
